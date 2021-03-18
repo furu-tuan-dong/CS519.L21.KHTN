@@ -1,0 +1,19 @@
+Week1
+- Hình thức đánh giá môn học:
++  Đồ án: Báo cáo 3-5 trang, slide thuyết trình 5-10 trang
++  Thi cuối kì đề mở (tài liệu < 2 trang A4 viết tay)
+- Sản phẩm môn học: proposal
++  Trong nghiên cứu học thuật: đề tài được tài trợ nghiên cứu theo cấp đánh giá
++  Trong môi trường doanh nghiệp: giải quyết các vấn đề trong thực tế doanh nghiệp
+- Kĩ năng cần thiết cho môn học:
++  Quan sát mọi khía cạnh của vấn đề
++  Khảo sát xem vấn đề đó đã được giải quyết chưa, giải quyết như vậy đã ổn thỏa chưa, có thể cải tiến được không
++  Oservation -> Survey
+- Các tiêu chí đánh giá mức độ thành công của một bài báo khoa học:
++  Ranking của hội nghị khoa học
++  Số lượng bài báo khoa học 
+- Kinh nghiệm trong quá trình học tập: tránh các môi trường gây nhiễu như facebook, youtube
+
+Week3
+Khi so sánh 2 phương pháp, ta dùng phương pháp định lượng
+Vd: Khảo sát, ..
